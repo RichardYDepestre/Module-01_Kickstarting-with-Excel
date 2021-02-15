@@ -1,6 +1,3 @@
-"<p align='center'> kickstarter-analysis</p>
-"<p align='center'> Performing analysis on Kickstarter data to uncover trends.</p>
-
 ### Kickstarting with Excel
   This project serves as an introduction to Data Analysis using Excel.\
   We must analyze raw data abut crowd-funded projects initiated all over the globe, and uncover any *hidden trends*.
