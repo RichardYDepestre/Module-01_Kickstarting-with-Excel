@@ -15,14 +15,13 @@
   Which country enjoy the most successful projects in light of their funding levels?
 
 ## Analysis and Challenges
-  ### This project helped understand 
-
 ### Analysis of Outcomes Based on Launch Date
-
 ### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
+### Challenges and Difficulties Encountered---
+  My challenge consisted within the boundaries of the assignment that is:
+  1.  keep formulas simple;
+  2.  follow the instructions;
+  3.  focus on what I could realistically extrapolate from the data given my current knowledge.
 ### Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
    - in the *theater* category, the months of May and June showcase the most successful months. The period of April through June has traditionally been the most productive. The fate of the projects that have failed appear to be proportional the funding they garner. For instance, if we looked at kickstarter projects (theater) that failed in the US, we'd see that these projects didn't raise enough interest from the backers. 
