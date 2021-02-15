@@ -16,10 +16,11 @@
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
+
 ### Analysis of Outcomes Based on Goals
-### Challenges and Difficulties Encountered---
+### Challenges and Difficulties Encountered
   My challenge consisted within the boundaries of the assignment that is:
-  1.  keep formulas simple;
+  1.  keep formulas and charts simple;
   2.  follow the instructions;
   3.  focus on what I could realistically extrapolate from the data given my current knowledge.
 ### Results
