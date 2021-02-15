@@ -1,6 +1,6 @@
 # Kickstarting with Excel
   This project serves as an introduction to Data Analysis using Excel.\
-  We must analyze raw data abut crowd-funded projects initiated all over the globe, and uncover any *hidden trends*.
+  We must analyze raw data about crowd-funded projects initiated all over the globe, and uncover any *hidden trends*.
 
 ## Overview of Project
   This project is to present Louise, whom requested the analysis, with our findings. We will use data analysis
@@ -23,8 +23,7 @@
 
 ### Challenges and Difficulties Encountered
 
-## Results
-
+### Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
    - in the *theater* category, the months of May and June showcase the most successful months. The period of April through June has traditionally been the most productive. The fate of the projects that have failed appear to be proportional the funding they garner. For instance, if we looked at kickstarter projects (theater) that failed in the US, we'd see that these projects didn't raise enough interest from the backers. 
 - What can you conclude about the Outcomes based on Goals?
