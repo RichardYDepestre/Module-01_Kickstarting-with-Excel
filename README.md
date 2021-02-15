@@ -16,8 +16,9 @@
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-
+  [Chart Outcomes Based on Launch Date](https://github.com/RichardYDepestre/kickstarter-analysis/blob/main/chart_outcomes-based-on-launch-date.png)
 ### Analysis of Outcomes Based on Goals
+  [Chart Analysis of Outcomes Based on Goals](https://github.com/RichardYDepestre/kickstarter-analysis/blob/main/chart_outcomes-based-on-launch-date.png)
 ### Challenges and Difficulties Encountered
   My challenge consisted within the boundaries of the assignment that is:
   1.  keep formulas and charts simple;
