@@ -32,4 +32,3 @@
 - What are some limitations of this dataset?
   Some columns could have been fully discribed and could have played a role in better understanding the data. What does staff_pick mean? what does spotlight mean?
  - What are some other possible tables and/or graphs that we could create?
-  - 
